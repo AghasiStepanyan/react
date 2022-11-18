@@ -10,6 +10,7 @@ export default class App extends Component {
         <header>
           <h1>Tatev</h1>
         </header>
+        <h2>Hrach</h2>
       </div>
     );
   }
